@@ -4,6 +4,7 @@
 
 - Blockchain Framework: [Substrate](https://github.com/paritytech/substrate) (open-source modular blockchain framework)
 - Smart Contract Language: [Ink](https://github.com/paritytech/ink) (Rust-based language for writing smart contracts on Substrate)
+- Solidity: In addition to Ink as desscribed above we can use solidity to write smart contracts on the Ethereum blockchain. Substrate also supports Solidity, allowing developers to port their Ethereum smart contracts to Substrate-based blockchains. Impact is EVM compatible
 - Web Framework: [Rust Actix-Web](https://github.com/actix/actix-web) (web framework for Rust programming language)
 - Database: [RocksDB](https://rocksdb.org/) (key-value store optimized for solid-state drives)
 - Web3 API: [Substrate API](https://substrate.dev/docs/en/knowledgebase/integrate/substrate-api) (set of RESTful endpoints for interacting with Substrate-based blockchains)
